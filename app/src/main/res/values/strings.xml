@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">spatial-agenda-wall</string>
+    <string name="hello">Hello, Spatial SDK！</string>
+</resources>
