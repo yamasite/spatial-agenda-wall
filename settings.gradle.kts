@@ -9,7 +9,10 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        maven { url = uri("https://artifact.bytedance.com/repository/Volcengine") }
+        maven {
+            url = uri("https://artifact.bytedance.com/repository/Volcengine")
+            name = ""
+        }
     }
 }
 dependencyResolutionManagement {
@@ -17,7 +20,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url = uri("https://artifact.bytedance.com/repository/Volcengine") }
+        maven {
+            url = uri("https://artifact.bytedance.com/repository/Volcengine")
+            name = ""
+        }
     }
 }
 
