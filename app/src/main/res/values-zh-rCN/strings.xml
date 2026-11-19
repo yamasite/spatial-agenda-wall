@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">空间议程墙</string>
-    <string name="app_title">空间议程墙</string>
+    <string name="app_name">空间日程墙</string>
+    <string name="app_title">空间日程墙</string>
     <string name="app_subtitle">把重要事项放进你的空间</string>
     <string name="status_scanning">正在扫描真实表面…</string>
     <string name="status_body_required">保存便签前请先填写内容</string>
@@ -79,7 +79,7 @@
     <string name="spatial_actions_hint">• 生成便签后，指向最近的墙面或桌面并松手。
 • 走到便签前抓住卡片即可移动它。
 • 便签文字会始终朝向你，松手时会保存当前位置。</string>
-    <string name="open_wall">打开议程墙</string>
+    <string name="open_wall">打开日程墙</string>
     <string name="preview_hint">预览 · 指向一个表面并松手</string>
     <string name="note_due_date">  · 截止 %1$s</string>
 </resources>

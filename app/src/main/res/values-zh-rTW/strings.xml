@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">空間議程牆</string>
-    <string name="app_title">空間議程牆</string>
+    <string name="app_name">空間日程牆</string>
+    <string name="app_title">空間日程牆</string>
     <string name="app_subtitle">把重要事項放進你的空間</string>
     <string name="status_scanning">正在掃描真實表面…</string>
     <string name="status_body_required">儲存便條前請先填寫內容</string>
@@ -79,7 +79,7 @@
     <string name="spatial_actions_hint">• 產生便條後，指向最近的牆面或桌面並放手。
 • 走近便條並抓住卡片即可移動它。
 • 便條文字會始終面向你，放手時會儲存目前位置。</string>
-    <string name="open_wall">開啟議程牆</string>
+    <string name="open_wall">開啟日程牆</string>
     <string name="preview_hint">預覽 · 指向一個表面並放手</string>
     <string name="note_due_date">  · 到期 %1$s</string>
 </resources>
